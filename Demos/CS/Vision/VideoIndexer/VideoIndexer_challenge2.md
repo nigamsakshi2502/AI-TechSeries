@@ -39,6 +39,7 @@
 <img src="http://139.59.61.161/VideoIndexer/6.jpg" alt="image" style="max-width:100%;">&nbsp;
 <li>Click <b>Add person</b> to add a person</li>&nbsp;
 <img src="http://139.59.61.161/VideoIndexer/7.jpg" alt="image" style="max-width:100%;">&nbsp;
+<li>You can avail the sample video and images from <a href = "https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/Demos/CS/Vision/VideoIndexer/Resources">here</a></li>
 <li>By clicking <b>choose files</b> you can able to select the images in your folder</li>&nbsp;
 <img src="http://139.59.61.161/VideoIndexer/8.jpg" alt="image" style="max-width:100%;">&nbsp;
 <li>Select the relevant photo then click open</li>&nbsp;
