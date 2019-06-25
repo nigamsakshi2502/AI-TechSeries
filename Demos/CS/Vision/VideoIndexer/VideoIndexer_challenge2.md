@@ -2,7 +2,7 @@
 <h2>Challenge 2 – Creating new Video Indexer</h2>
 <p>In Challenge 2 we are going to explore about how the Video Indexer works using Azure API.</p>
 <h2>Getting Started</h2>
-<p>Just Clone the Video Indexer Starter Kit from the <a href="">Git Repository</a> Kinldy ignore, if you done this step in previous</p>
+<p>Just Clone the Video Indexer Starter Kit from the <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/Demos/CS/Vision/VideoIndexer/VideoIndexer_StarterKit">Git Repository</a> Kinldy ignore, if you done this step in previous</p>
 <h3>Prerequisites</h3>
 <li>Kindly ensure that your Visual Studio working fine</li>
 <li>Have minimum two photos for all the person in your video file, it will be usefull when the training is heppen</li>
@@ -244,4 +244,4 @@ function generateUrlFromParams(obj, baseUrl, el, accountId, id) {
 <img src="http://139.59.61.161/VideoIndexer/single2.jpg" alt="image" style="max-width:100%;">&nbsp;
 <h3>Congratulations! You have successfully completed Video Indexer</h3>
 <h3>Next steps</h3>
-<li><a href="">Back to ReadMe</a></li>
+<li><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Demos/CS/Vision/VideoIndexer/VideoIndexer_intro.md">Back to ReadMe</a></li>

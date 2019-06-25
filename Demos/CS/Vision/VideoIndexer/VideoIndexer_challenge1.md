@@ -8,7 +8,7 @@
 <p>This application has two cshtml files. The two files are playing the major role in this application.The index.cshtml file is used to navigate to the videoinsights.cshtml file.</p>
 <p>The videoinsights.cshtml file is having all the Azure functionalities.</p>
 <h3>Invoking the Video Indexer</h3>
-<p>Just Clone the Video Idexer HOL Completed Kit from the <a href="">Git Repository.</a></p>
+<p>Just Clone the Video Idexer HOL Completed Kit from the <a href="https://github.com/jumpstartninjatech/AI-TechSeries/tree/master/Demos/CS/Vision/VideoIndexer/VideoIndexer_CompletedKit">Git Repository.</a></p>
 <h3>Things that you need to do in Completed Kit</h3>
 <li>Open the Video Idexer Completed Kit application in the folder</li>&nbsp;
 <img src="http://139.59.61.161/VideoIndexer/32.jpg" alt="image" style="max-width:100%;">
@@ -55,4 +55,4 @@
 <img src="http://139.59.61.161/VideoIndexer/31.jpg" alt="image" style="max-width:100%;">&nbsp;
 <h3>Congratulations! You have successfully completed Challenge 1</h3>
 <h3>Next steps</h3>
-<li><a href="">Challenge 2: Creating new Video Indexer</a> or <a href="">Back to ReadMe</a></li>
+<li><a href="https://github.com/jumpstartninjatech/AI-TechSeries/blob/master/Demos/CS/Vision/VideoIndexer/VideoIndexer_challenge2.md">Challenge 2: Creating new Video Indexer</a> or <a href="">Back to ReadMe</a></li>
